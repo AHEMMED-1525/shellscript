@@ -32,7 +32,8 @@ Do=$(( (d+X+31*Mo/12)%7 ))
       then
       echo "Today is Saturday"
     else
-      echo "Please enter the correct format"
+      echo "Please enter the correct data"
+      echo "thank you"
 
    fi
 
