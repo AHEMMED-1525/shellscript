@@ -1,6 +1,6 @@
 #! /bin/bash
 
-read -p "Enter the day : " d
+read -p "Enter the date : " d
 read -p " Enter the month : " m
 read -p "Enter the year : " y
 
