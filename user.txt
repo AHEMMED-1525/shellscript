@@ -7,3 +7,4 @@ TODAY IS CLASS 9 about git
 =======
 26-08-2020
 >>>>>>> c2c7783b645f78791014129fb82f65f416cd42e6
+finish
