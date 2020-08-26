@@ -1,7 +1,5 @@
 This repository was created by Sk.Ahemmed
-<<<<<<< HEAD
 Testing the git.Always use pull before pushing to the branch 
-=======
 Testing the git 
 IF u directly give the command push after comit it gets conflicts, if u use pull then ur edited remote will comes to local and no conflicts occur
->>>>>>> 5765f74a56eee1150f162c3ab9652a7037024923
+
