@@ -1,2 +1,3 @@
 This repository was created by Sk.Ahemmed
 Testing the git 
+IF u directly give the command push after comit it gets conflicts, if u use pull then ur edited remote will comes to local and no conflicts occur
