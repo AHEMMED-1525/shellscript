@@ -1,5 +1,4 @@
-<<<<<<< HEAD
+
 this line is created in local
-=======
 This is created in master
->>>>>>> c3cd69a74d116f3b0ed6a6e9943e4ecad33e6a80
+
